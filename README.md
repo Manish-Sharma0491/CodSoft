@@ -31,6 +31,6 @@ Feel free to use these projects as a learning resource, and don't hesitate to re
 This repository is open-source and can be used for educational purposes. If you plan to use or share any of the code or ideas presented here, please provide appropriate attribution.
 
 ## Contact
-You can connect with me on LinkedIn (https://www.linkedin.com/in/pradeep-soni-649858208/) for discussions, collaborations, and further insights into these projects.
+You can connect with me on LinkedIn (https://www.linkedin.com/in/manish-sharma-a3a03b252) for discussions, collaborations, and further insights into these projects.
 
 Happy exploring and learning!
